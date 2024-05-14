@@ -11,6 +11,18 @@ public class variables {
 
         // char = stores 'a' single character values
 
+        //booleen = stores '0' and '1' for values of true and false
+        
+        /*
+
+        int myNum = 5;
+        float myFloatNum = 5.99f;
+        char myLetter = 'D';
+        boolean myBool = true;
+        String myText = "Hello";
+        
+        */
+
 
 
     }
