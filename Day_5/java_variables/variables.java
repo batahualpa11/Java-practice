@@ -5,9 +5,11 @@ public class variables {
 
         // String = stores text, such as names or text like hello or john 
 
-        // int = stroes whole numbers (integers)
+        // int = stores whole numbers (integers)
 
-        //
+        // float = stores floating point numbers, (decimal numbers)
+
+        // char = stores 'a' single character values
 
 
 
