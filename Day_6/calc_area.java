@@ -7,7 +7,9 @@ public class calc_area {
         int area;
 
         area = length * width;
-        System.out.println(area);
+        System.out.println("If the length is " + length);
+        System.out.println("If the width is " + width);
+        System.out.println("The area then is " + area);
     }
     
 }
