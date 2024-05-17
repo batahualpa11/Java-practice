@@ -8,12 +8,12 @@ public class num_types {
         float myFloat = 3.14515f;
         double myDouble = 9.99d;
 
-        System.out.println(myNum);
-        System.out.println(myShort);
-        System.out.println(myInt);
-        System.out.println(myLong);
-        System.out.println(myFloat);
-        System.out.println(myDouble);
+        System.out.println("This is a byte = " + myNum);
+        System.out.println("This is a short = " + myShort);
+        System.out.println("This is an integer = " + myInt);
+        System.out.println("This is a byte = " + myLong);
+        System.out.println("This is a float = "+ myFloat);
+        System.out.println("This is a double = " + myDouble);
 
     }
 
