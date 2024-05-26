@@ -2,7 +2,7 @@
 
 public class positive_negative {
     public static void main(String[] args) {
-        int myNum = 2;
+        int myNum = -8;
 
         if (myNum < 0) {
             System.out.println("Your number is a negative!");
