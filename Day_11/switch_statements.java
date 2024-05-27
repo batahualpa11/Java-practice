@@ -26,8 +26,8 @@ public class switch_statements {
             case 7:
                 System.out.println("Sunday");
                 break;
-            default:
-                break;
+            //default:
+                //break;
         }
         
     }
