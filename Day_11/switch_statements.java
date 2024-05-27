@@ -2,7 +2,7 @@
 
 public class switch_statements {
     public static void main(String[] args) {
-        int day = 10;
+        int day = 4;
 
         switch (day) {
             case 1:
@@ -26,9 +26,9 @@ public class switch_statements {
             case 7:
                 System.out.println("Sunday");
                 break;
-            default:
-                System.out.println("Thats strange I don't know what day it is then :(");
-                break;
+            //default:
+                //System.out.println("Thats strange I don't know what day it is then :(");  // This is used when there is no value for any of the cases //
+                //break;
         }
         
     }
