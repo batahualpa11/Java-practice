@@ -2,7 +2,7 @@
 
 public class switch_statements {
     public static void main(String[] args) {
-        int day = 4;
+        int day = 2;
 
         switch (day) {
             case 1:
