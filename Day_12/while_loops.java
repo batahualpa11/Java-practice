@@ -4,7 +4,7 @@ public class while_loops {
 
         while (myDay < 10) {
             System.out.println(myDay);
-            myDay++;
+            myDay++; // this acts as a counter which also stops the program.
         }
     }
     
