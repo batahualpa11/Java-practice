@@ -8,7 +8,7 @@ public class while_break {
             System.out.println(i);
             i++;
 
-            if (i == 4) {
+            if (i == 8) {
                 break;
             }
         }
